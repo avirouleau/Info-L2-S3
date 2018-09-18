@@ -11,7 +11,7 @@ L'UE s'organise autour de 6 séances, qui suivront grosso modo la trame suivante
   - Tableaux 2D (liste de listes)
 
 - Séance 3 (2h) : 
-  - ** Type 2 de 20 minutes **
+  - **Type 2 de 20 minutes**
   - algorithme(s) de tri
   - Préparation mini-projet
   
