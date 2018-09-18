@@ -1,8 +1,7 @@
-# On demande de tester chaque programme, débuguer, éventuellement
-# afficher des messages supplémentaires pour plus de clarté
 def carre(n)
 return n*n
 
+##########
 
 def fonction1(n):
 # retourne la somme 1+2+...+n
@@ -10,6 +9,8 @@ def fonction1(n):
     for i in range(n):
         s = s + i
     return s
+
+##########
 
 def premiers_carres(k):
 # affiche les k premiers carrés : 1^2, 2^2, ..., k^2
@@ -28,10 +29,14 @@ while i < k:
 k = input("Entrez un nombre : ")
 print(premiers_carres (k))
 
+##########
+
 # retourne si le nombre est pair ou non
 def est_pair(n):
     if n % 2 = 0
         return True
+
+##########
 
 
 # prend en entrée une chaîne de caractères et renvoie le nombre de voyelles
@@ -61,36 +66,46 @@ def nb_voyelles(u):
             voyelles += 1
             return voyelles
 
+##########
+
 def convert_g_kg(l):
     # prend une liste de masses en grammes et renvoie la liste en kg
     return l * 1000
+
+##########
 
 def add_liste(l1, l2):
     # prend deux listes de même taille en entrée et renvoie la liste contenant
     # les sommes des éléments de même rang dans l1 et l2
     return l1 + l2
 
-# oublis d'import et autres
+##########
+
 def pile_face():
+    # effectue un tirage de pile ou face
     if rand()<0,5:
         print("Pile")
     else:
         print("Face")
 
+##########
+
 def count_distance(pos, n)
-# déplacement aléatoire dans Z, évalue la distance entre la pos initiale et
-# la pos d'arrivée au bout de n pas
+# déplacement aléatoire dans Z, évalue la distance entre la position initiale et
+# la position d'arrivée au bout de n pas
     new_pos = pos
     for i in range(n):
         new_pos = new_pos + random.choice([-1, 1])
     return abs(new_pos - pos)
+
+##########
 
 print ("Ce script recherche le plus grand de trois nombres")
 print ('Veuillez entrer trois nombres séparés par des virgules : ')
 
 3nombres = input()
 max, index = 3nombres[0], 'premier'
-if 3nombres[1] > max:			
+if 3nombres[1] > max:
     max = 3nombres[1]
     index = 'second'
 if 3nombres[2] > max:
@@ -98,6 +113,8 @@ if 3nombres[2] > max:
     index = 'troisième'
 print ("Le plus grand de ces nombres est" max)
 print ("Ce nombre est le" index "de votre liste.")
+
+##########
 
 
 
@@ -108,5 +125,4 @@ print ("Ce nombre est le" index "de votre liste.")
 
 
 # Ecrire une fonction qui renvoie l'impot sur le revenu en fonction du
-# salaire net imposable (recherche nécessaire)
-    
+# salaire net imposable
