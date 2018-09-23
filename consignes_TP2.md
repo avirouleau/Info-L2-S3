@@ -63,4 +63,4 @@ Lorsqu'on a une liste de nombres, on peut avoir envie de faire mieux que sortir 
 
 On s'intéressera à cela ainsi qu'à quelques applications du tri dans le prochain TP.
 
-En attendant, vous pouvez vous rendre [ici](https://plm.telecomnancy.univ-lorraine.fr/#/ui/lessons/sort.pancake/) pour trier une pile de pancakes à l'aide d'une spatule sans salir une assiette, ni la table, ni vos mains !
+En attendant, vous pouvez vous rendre [ici](https://plm.telecomnancy.univ-lorraine.fr/#/ui/lessons/sort.pancake/) pour trier une pile de pancakes à l'aide d'une spatule sans salir une assiette, ni la table, ni vos mains ! (par contre il faut avoir du skill en retournage de pancakes)
