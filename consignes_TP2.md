@@ -26,7 +26,11 @@ Notez qu'un tableau à deux dimensions est une liste de listes, mais une liste d
 En Python, la structure de *dictionnaire*, que l'on n'abordera pas, est aussi bien adaptée pour le dernier exemple.
 
 ## Les commandes de base sur une liste
+- On peut créer une liste en écrivant `l = [1, 2]`. Souvent on crée d'abord une liste
+vide avec `l=[]` pour pouvoir la remplir ensuite.
 - La longueur d'une liste `l`s'obtient en écrivant `len(l)`
+- Les éléments d'une liste ont un rang (ou indice), allant de **0** à `len(l)`.
+On accède à l'élément de rang **i** grâce à `l[i]`.
 - On peut concaténer (coller deux listes en une seule) deux listes `l1`et `l2`grâce à l'opération `l1+l2`
 - On peut ajouter un élément `x`à une liste `l`en écrivant `l.append(x)`. `x`est alors ajouté en dernière position.
 - On peut enlever le dernier élément d'une liste `l`en effectuant `l.pop()` (qui affiche aussi l'élément ainsi enlevé)
@@ -41,7 +45,7 @@ Coder une fonction `recherche` prenant en argument une liste `l` et un élément
 
 Vous pourrez tester votre fonction sur les listes du fichier `TP2.py`:
 - `liste_etudiantsL2` pour vérifier que vous êtes bien dans la liste des étudiants de L2 !
-- `liste_etudiants_maxXP`, qui contient les noms des étudiant(e)s ayant obtenu le plus grand nombre d'XP chaque semaine (cette liste est bien sûr fictive :smile:)
+- `liste_etudiants_maxXP`, qui contient les noms des étudiant(e)s ayant obtenu le plus grand nombre d'XP lors de chaque exercice de maths de l'année (cette liste est bien sûr fictive :smile:)
 
 
 Cela peut s'appliquer dans toute sorte de liste bien concrète, par exemple pour savoir si une personne est présente sur les listes électorales, ou encore si un patient a été exposé (et combien de fois) à un médicament qui serait en fait nocif.
@@ -63,4 +67,4 @@ Lorsqu'on a une liste de nombres, on peut avoir envie de faire mieux que sortir 
 
 On s'intéressera à cela ainsi qu'à quelques applications du tri dans le prochain TP.
 
-En attendant, vous pouvez vous rendre [ici](https://plm.telecomnancy.univ-lorraine.fr/#/ui/lessons/sort.pancake/) pour trier une pile de pancakes à l'aide d'une spatule sans salir une assiette, ni la table, ni vos mains ! (par contre il faut avoir du skill en retournage de pancakes)
+En attendant, vous pouvez vous rendre [ici](https://plm.telecomnancy.univ-lorraine.fr/#/ui/lessons/sort.pancake/) pour trier une pile de pancakes à l'aide d'une spatule sans salir une assiette, ni la table, ni vos mains !

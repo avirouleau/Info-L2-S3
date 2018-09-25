@@ -1,0 +1,35 @@
+liste_etudiantsL2 = ['Chakib', 'Lola', 'Santiago', 'Lou', 'Louise', 'Matthew',
+'Samuel', 'Tasnim', 'Nicolas', 'Quentin', 'François', 'Mathias', 'Ines',
+'Valentin', 'Laura', 'Camille', 'Axel', 'Adam', 'Cyrine', 'Alexia', 'Mickaël',
+'Romane', 'Haroon', 'Hammad', 'Sajidah', 'Alaeddine', 'Matthieu', 'Nour',
+'Victoire', 'Maëlle', 'Mathieu', 'Mouhammed', 'Adrien', 'Estelle']
+
+
+liste_etudiants_maxXP = ['Sajidah', 'Mickaël', 'Adam', 'Alexia', 'Valentin', 'Louise',
+'Samuel', 'Nour', 'Valentin', 'Axel', 'Ines', 'Mathias', 'Victoire', 'Chakib', 'Samuel',
+'Tasnim', 'Ines', 'François', 'Alexia', 'Mathias', 'Lola', 'Matthew', 'Chakib', 'Adam',
+'Adam', 'Alexia', 'Lola', 'Adam', 'Hammad', 'Haroon', 'Cyrine', 'François', 'Valentin',
+'Alaeddine', 'Sajidah', 'Valentin', 'Chakib', 'Haroon', 'Mathias', 'Adam', 'Tasnim',
+'Valentin', 'Romane', 'Hammad', 'Matthew', 'Matthieu', 'Alaeddine', 'Alexia', 'Louise',
+'Alexia', 'Ines', 'Adrien', 'Tasnim', 'Lou', 'Estelle', 'Maëlle', 'Laura', 'Matthew',
+'Adrien', 'Victoire', 'François', 'Mathieu', 'Ines', 'Valentin', 'Mickaël', 'Mathias',
+'Mathieu', 'Lou', 'Adam', 'Lou', 'Haroon', 'Tasnim', 'Haroon',
+'Laura', 'Mathieu', 'Matthieu', 'Adrien', 'Chakib', 'Matthieu', 'Chakib', 'Axel', 'Hammad',
+'Alaeddine', 'Camille', 'Ines', 'Samuel', 'Estelle', 'Matthieu', 'Cyrine', 'Mathias',
+'Romane', 'Matthieu', 'Mathias', 'Matthew', 'Axel', 'Camille', 'Quentin', 'Samuel',
+'Sajidah', 'Chakib', 'Romane', 'Axel', 'Chakib', 'Nicolas', 'Santiago', 'Haroon',
+'Nicolas', 'Mickaël', 'Valentin', 'Maëlle', 'Estelle', 'Adrien', 'Matthew',
+'Mouhammed', 'Maëlle', 'Axel', 'Tasnim', 'Hammad', 'Maëlle', 'Lola', 'Matthew',
+'Alaeddine', 'Ines', 'Lola', 'Estelle', 'Victoire', 'Nicolas', 'Nour', 'Maëlle',
+'Alaeddine', 'Valentin', 'Sajidah', 'Laura', 'Alexia', 'Mouhammed', 'Victoire', 'Maëlle',
+'Mathieu', 'Alaeddine', 'Mouhammed', 'Sajidah', 'Louise', 'Mickaël', 'Estelle', 'Adam',
+'Victoire', 'Tasnim', 'Matthieu', 'Ines', 'Mathias', 'Mathias', 'Hammad', 'Mouhammed',
+'Adrien', 'Romane', 'Matthieu', 'Nicolas', 'Samuel', 'Louise', 'Victoire', 'Nicolas',
+'Romane', 'Adrien', 'Nicolas', 'Hammad', 'Camille', 'Mickaël', 'Matthieu', 'Valentin',
+'Axel', 'Mouhammed', 'Mathias', 'Victoire', 'Chakib', 'Mathias', 'Romane', 'Santiago',
+'Alexia', 'Laura', 'Matthieu', 'Romane', 'Estelle', 'Haroon', 'Hammad', 'Valentin',
+'François', 'Sajidah', 'Samuel', 'Mickaël', 'Mouhammed', 'Ines', 'Matthew', 'Mathias',
+'Adam', 'Valentin', 'Valentin', 'Sajidah', 'Ines', 'Cyrine', 'Lola']
+
+Liste_XP_L3 = [36, 39, 36, 45, 33, 34, 33, 39, 39, 43, 43, 28, 33, 41, 28, 39,
+               0, 26, 28, 45, 38, 36, 34, 52, 28, 39, 40, 34, 35]
