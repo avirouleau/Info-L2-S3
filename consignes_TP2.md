@@ -47,6 +47,9 @@ Vous pourrez tester votre fonction sur les listes du fichier `TP2.py`:
 - `liste_etudiantsL2` pour vérifier que vous êtes bien dans la liste des étudiants de L2 !
 - `liste_etudiants_maxXP`, qui contient les noms des étudiant(e)s ayant obtenu le plus grand nombre d'XP lors de chaque exercice de maths de l'année (cette liste est bien sûr fictive :smile:)
 
+**Extension:** Ecrire une fonction prenant en entrée une liste de listes (toutes de même taille) ainsi qu'un entier `n`, et renvoie le maximum parmi les éléments de la colonne
+`n` et la liste dans lequel se trouve ce maximum. 
+
 
 Cela peut s'appliquer dans toute sorte de liste bien concrète, par exemple pour savoir si une personne est présente sur les listes électorales, ou encore si un patient a été exposé (et combien de fois) à un médicament qui serait en fait nocif.
 
