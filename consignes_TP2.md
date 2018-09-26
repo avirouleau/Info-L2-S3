@@ -47,10 +47,6 @@ Vous pourrez tester votre fonction sur les listes du fichier `TP2.py`:
 - `liste_etudiantsL2` pour vérifier que vous êtes bien dans la liste des étudiants de L2 !
 - `liste_etudiants_maxXP`, qui contient les noms des étudiant(e)s ayant obtenu le plus grand nombre d'XP lors de chaque exercice de maths de l'année (cette liste est bien sûr fictive :smile:)
 
-**Extension:** Ecrire une fonction prenant en entrée une liste de listes (toutes de même taille) ainsi qu'un entier `n`, et renvoie le maximum parmi les éléments de la colonne
-`n` et la liste dans lequel se trouve ce maximum. 
-
-
 Cela peut s'appliquer dans toute sorte de liste bien concrète, par exemple pour savoir si une personne est présente sur les listes électorales, ou encore si un patient a été exposé (et combien de fois) à un médicament qui serait en fait nocif.
 
 
@@ -62,6 +58,11 @@ Vous pourrez tester vos fonctions sur la liste du fichier `TP2.py`:
 - `Liste_XP_L3`, qui recense les XP gagnés par chaque étudiant(e) de L3 depuis le début de l'année (cette liste n'est peut-être pas fictive)
 
 Ce genre de fonction est par exemple utilisé par les comparateurs d'assurance, de voyages, d'hôtels etc... pour vous proposer les meilleurs prix (par forcément la meilleur qualité par contre...)
+
+**Extension:** Ecrire une fonction prenant en entrée une liste de listes (toutes de même taille) ainsi qu'un entier `n`, et renvoie le maximum parmi les éléments de la colonne
+`n` et la liste dans lequel se trouve ce maximum.
+
+Créer une liste de listes et tester votre fonction dessus !
 
 
 ## Trier une liste
