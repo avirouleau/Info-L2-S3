@@ -60,7 +60,7 @@ Vous pourrez tester vos fonctions sur la liste du fichier `TP2.py`:
 Ce genre de fonction est par exemple utilisé par les comparateurs d'assurance, de voyages, d'hôtels etc... pour vous proposer les meilleurs prix (par forcément la meilleur qualité par contre...)
 
 **Extension:** Ecrire une fonction prenant en entrée une liste de listes (toutes de même taille) ainsi qu'un entier `n`, et renvoie le maximum parmi les éléments de la colonne
-`n` et la liste dans lequel se trouve ce maximum.
+`n` et la liste dans laquel se trouve ce maximum.
 
 Créer une liste de listes et tester votre fonction dessus !
 
