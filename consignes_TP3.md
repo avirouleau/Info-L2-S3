@@ -41,12 +41,12 @@ Maintenant que le premier élément est le bon, qui est le deuxième ? C'est le 
 
 Il vous reste à coder tout cela :smile: (par exemple dans une fonction que vous pouvez appeler `tri_croissant` et qui prendra en entrée une liste à trier). Vous pouvez :
 - Réutiliser ou s'inspirer de la fonction du TP précédent qui permet de trouver le minimum d'une liste
-- Définir une fonction prenant en entrée une liste ainsi que deux positions $i$  et $j$ et renvoie la liste avec les éléments des positions $i$ et $j$ échangés
+- Définir une fonction prenant en entrée une liste ainsi que deux positions *i*  et *j* et renvoie la liste avec les éléments des positions *i* et *j* échangés
 - Tester votre code sur une liste d'un TP précédent ou bien sur une liste que vous créez vous-même.
 
 **Remarque :** Les commandes suivantes peuvent être ou ne pas être utiles:
-- `l[:i]` permet d'extraire la liste des $i$ premiers éléments de la liste `l`
-- `l[i:]` permet d'extraire la liste des éléments de `l` en partant du rang $i$ (c'est donc la liste `l` à laquelle on a enlevé les $i$ premiers éléments)
+- `l[:i]` permet d'extraire la liste des *i* premiers éléments de la liste `l`
+- `l[i:]` permet d'extraire la liste des éléments de `l` en partant du rang *i* (c'est donc la liste `l` à laquelle on a enlevé les *i* premiers éléments)
 
 
 ## Exercice 2 : Stratégie du "C'est où que je le mets celui-là ?"
