@@ -32,3 +32,10 @@ Attention à placer le fichier au bon endroit. Par exemple dans Spyder vous deve
 - L'esprit d'un projet d'analyse de données n'est pas forcément de tout coder soi-même. Plein de fonctions existent déjà, servez-vous en !
 
 - Une structure de données qui pourra vous intéresser sont les numpy array. Cela se manipule grosso modo comme des listes, avec quelques commandes supplémentaires et en particulier un bon nombre de fonctions déjà existantes. Une liste `L` contenant des nombres se transforme en un tableau numpy array (une matrice), grâce à la commande `numpy.array(L).astype(np.float)`
+
+## Critères d'évaluation
+
+La grille critériée envoyée par mail résume nos attentes concernant le compte-rendu du projet.
+
+Par ailleurs, nous demanderons à la fin à chaque membre du groupe une estimation des pourcentages d'implication de chaque membre au sein du groupe
+**Exemple** : je fais partie d'un groupe de trois personnes, j'estime l'implication de chacun à *30%*, *10%* et *60%* (le total doit faire *100%* !)
