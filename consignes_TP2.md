@@ -21,9 +21,6 @@ Les exemples de listes de listes sont nombreux:
 - Une liste de coordonnées GPS (typiquement ce qu'enregistre votre téléphone lorsque les données de localisation sont activées)
 - Une liste de courses un peu évoluée, dans laquelle chaque élément est une liste de deux éléments (nom du produit et quantité)
 
-Notez qu'un tableau à deux dimensions est une liste de listes, mais une liste de listes est un peu plus général puisque les listes à l'intérieur de la liste principale peuvent être de différentes longueurs : par exemple, si on construit la liste contenant les listes  
-
-En Python, la structure de *dictionnaire*, que l'on n'abordera pas, est aussi bien adaptée pour le dernier exemple.
 
 ## Les commandes de base sur une liste
 - On peut créer une liste en écrivant `l = [1, 2]`. Souvent on crée d'abord une liste
@@ -44,8 +41,8 @@ On accède à l'élément de rang **i** grâce à `l[i]`.
 Coder une fonction `recherche` prenant en argument une liste `l` et un élément `x`, et renvoyant le nombre de fois où l'élément `x` apparaît dans la liste. On pourra également retourner la liste des positions de cet élément.
 
 Vous pourrez tester votre fonction sur les listes du fichier `TP2.py`:
-- `liste_etudiantsL2` pour vérifier que vous êtes bien dans la liste des étudiants de L2 !
-- `liste_etudiants_maxXP`, qui contient les noms des étudiant(e)s ayant obtenu le plus grand nombre d'XP lors de chaque exercice de maths de l'année (cette liste est bien sûr fictive :smile:)
+- `liste_etudiants` pour vérifier que vous êtes bien dans la liste des étudiants de L2 !
+- `liste_etudiants_best`, qui contient les noms des étudiant.e.s ayant obtenu le plus haut taux de bonne réponse lors de chaque épreuve wooclap l'année dernière (cette liste est bien sûr fictive :) )
 
 Cela peut s'appliquer dans toute sorte de liste bien concrète, par exemple pour savoir si une personne est présente sur les listes électorales, ou encore si un patient a été exposé (et combien de fois) à un médicament qui serait en fait nocif.
 
@@ -55,9 +52,8 @@ Cela peut s'appliquer dans toute sorte de liste bien concrète, par exemple pour
 Coder les fonctions `moyenne`, `mini` et `maxi` qui prennent en argument une liste de nombres et retournent respectivement la moyenne, le minimum et le maximum des nombres dans la liste.
 
 Vous pourrez tester vos fonctions sur la liste du fichier `TP2.py`:
-- `Liste_XP_L3`, qui recense les XP gagnés par chaque étudiant(e) de L3 depuis le début de l'année (cette liste n'est peut-être pas fictive)
+- `Liste_wooclap`, qui recense les pourcentages de réussite de chacun de vous aux questions wooclap de l'année dernière (liste fictive :) )
 
-Ce genre de fonction est par exemple utilisé par les comparateurs d'assurance, de voyages, d'hôtels etc... pour vous proposer les meilleurs prix (par forcément la meilleur qualité par contre...)
 
 **Extension:** Ecrire une fonction prenant en entrée une liste de listes (toutes de même taille) ainsi qu'un entier `n`, et renvoie le maximum parmi les éléments de la colonne
 `n` et la liste dans laquelle se trouve ce maximum.
@@ -71,4 +67,4 @@ Lorsqu'on a une liste de nombres, on peut avoir envie de faire mieux que sortir 
 
 On s'intéressera à cela ainsi qu'à quelques applications du tri dans le prochain TP.
 
-En attendant, vous pouvez vous rendre [ici](https://plm.telecomnancy.univ-lorraine.fr/#/ui/lessons/sort.pancake/) pour trier une pile de pancakes à l'aide d'une spatule sans salir une assiette, ni la table, ni vos mains !
+En attendant, vous pouvez vous rendre [ici](https://plm.telecomnancy.univ-lorraine.fr/#/ui/lessons/sort.pancake/) pour trier une pile de pancakes à l'aide d'une spatule sans salir une assiette, ni la table, ni vos mains ! (sélectionner Python en haut à droite et cliquer sur Aide pour voir les fonctions dont vous disposez)

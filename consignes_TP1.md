@@ -13,17 +13,14 @@ les notions que vous avez vues l'année dernière au S1 et S2,
 - Et les imbrications de toute cela...
 
 Le fichier ```TD1.py```contient un ensemble de
-fonctions et scripts... qui contiennent des erreurs !
+fonctions... qui contiennent des erreurs !
 
-Une description de ce qu'est sensé(e) faire le script/
+Une description de ce qu'est censée faire
 la fonction est en général indiquée en commentaire.
 Votre mission, si toutefois vous l'acceptez (en
 réalité vous n'avez pas vraiment le choix :smile:),
 est de tester ces fonctions et d'en corriger
 les erreurs !
 
-Les différents scripts sont séparés par des
-caractères ```########```, vous pouvez les
-traiter un par un en copiant chaque script
-dans un nouveau fichier ```.py```que vous
-pourrez exécuter.
+- Que vous travailliez sur votre machine ou sur CoCalc, vous pouvez utiliser les fonctions contenu dans le fichier `.py` après l'avoir importé.
+- Vous pouvez si vous préférez copier/coller les fonctions contenues dans le fichier `.py`
